@@ -80,7 +80,7 @@ notebooks/detention_analysis.ipynb
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/Rabin787/data-screening-exercise
    cd repo-name
 2. **Install dependencies:**
    Make sure Python is installed, then run:
